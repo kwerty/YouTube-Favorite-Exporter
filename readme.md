@@ -20,6 +20,6 @@ The file can be imported into Chrome, Firefox, Internet Explorer, Delicious etc.
 Try it for yourself
 -------------------
 
-**[Download YouTube Favorite Exporter](https://bitbucket.org/kwerty/youtube-favorite-exporter/downloads/youtube-favorite-exporter-1_1-compiled.zip)**
+Head over to the website to download
 
-.NET Framework 2.0 is required.
+[kwerty.com/YouTube-Favorite-Exporter/](http://kwerty.com/YouTube-Favorite-Exporter/)
